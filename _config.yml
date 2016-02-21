@@ -6,7 +6,7 @@ repo: starter
 github_org: maptime
 maptime:
   chapter: Maptime Morgantown
-  twitter: @MaptimeMGWV
+  twitter: MaptimeMGWV
   #disqus: YOUR DISQUS USERNAME
 
 gems:
