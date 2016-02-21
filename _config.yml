@@ -1,12 +1,12 @@
-baseurl: /starter
+baseurl: /morgantown
 permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: Maptime Morgantown
+  twitter: @MaptimeMGWV
   #disqus: YOUR DISQUS USERNAME
 
 gems:
